@@ -1,7 +1,7 @@
 # UPMSat-2 Simulink models
 
-This repository contains the Simulink models used during the development and testing process
-for the Attitude Control System (ACS) from the UPMSat-2 microsatellite.
+This repository contains the Simulink models used during the development and testing processes
+of the UPMSat-2 Attitude Control System (ACS).
 
 ## General Structure:
 
