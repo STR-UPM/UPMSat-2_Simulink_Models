@@ -1,0 +1,11 @@
+# ignore cache from Simulink models
+*.slxc
+
+# ignore Simulink code generation
+slprj/
+
+# ignore autosave extension
+*.asv
+*.m~
+*.mex.*
+.autosave
