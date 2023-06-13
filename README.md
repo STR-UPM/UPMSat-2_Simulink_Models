@@ -1,5 +1,7 @@
 # UPMSat-2 Simulink models
 
+## Overview
+
 This repository contains the Simulink models used during the development and testing activities
 from the UPMSat-2 Attitude Control System (ACS).
 
@@ -22,3 +24,11 @@ from the UPMSat-2 Attitude Control System (ACS).
    This model is transformed into C or Ada source code,
    and is then embedded in the satellite on-board software (OBSW).
    The controller has been tested following the *in-the-loop* simulation technique.
+
+## License
+
+> _Copyright (C) Universidad Politécnica de Madrid_
+>
+> _Copyright (C) Institudo de Microgravedad Ignacio da Riva_
+
+The UPMSat-3 OBSW was developed by the [IDR Institute](https://www.idr.upm.es/index.php/) at the [Universidad Politécnica de Madrid](https://www.upm.es/). These models are distributed under the [**GNU General Public License v3**](LICENSE).
